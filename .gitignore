@@ -1,0 +1,4 @@
+*.Log
+*.History/
+__Previews/
+*.edo
